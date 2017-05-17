@@ -9,6 +9,7 @@ meta:
 	hash2 = "509c41ec97bb81b0567b059aa2f50fe8"
 	hash3 = "82fd8635ff349f2f0d8d42c27d18bcb7"
 	sample_filetype = "exe"
+	yara-generator = "vulcanoio.org"
 strings:
 	$string0 = ".sqlitedb" wide
 	$string1 = "SeAlNrZbE"
